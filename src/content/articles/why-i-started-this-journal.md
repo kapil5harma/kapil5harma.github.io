@@ -32,17 +32,6 @@ First, AI tools have changed how I work in ways I couldn't have predicted a year
 
 Second, I've noticed that the best developers I work with share a common trait: they reflect on their work. They don't just ship and move on. They ask "what did I learn?" and "what would I do differently?" This journal is my attempt to build that muscle.
 
-## How This Site Works
-
-This site is built with Astro and deployed to GitHub Pages. The content pipeline is deliberately simple:
-
-1. At the end of my work day, I capture notes about what I worked on
-2. I use Claude Code to help turn those notes into a draft article
-3. I review, edit, and add my personal perspective
-4. Push to git, and it's live
-
-No CMS, no complex tooling. Markdown files in a git repo. If the process has friction, I won't do it. So I removed the friction.
-
 ## Let's See Where This Goes
 
 I'm not setting goals for post frequency or subscriber counts. The only commitment is to the habit: capture, reflect, publish. Everything else is a side effect.
