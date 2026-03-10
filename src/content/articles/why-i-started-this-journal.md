@@ -19,8 +19,8 @@ If other developers find it useful, great. But the primary reader is future me.
 
 I'm a software engineer based in Germany, working on enterprise SaaS products. My days involve a mix of:
 
-- **AI-assisted development** — I use Claude Code extensively in my daily work. How it changes the way I think about problems, where it helps, where it doesn't.
-- **Frontend and backend engineering** — Angular, Java, Python, data pipelines. Real patterns from real systems, not textbook examples.
+- **AI-assisted development** — I use AI tooling extensively in my daily work. How it changes the way I think about problems, where it helps, where it doesn't.
+- **Frontend and backend engineering** — Angular, TypeScript, Node.js, data pipelines. Real patterns from real systems, not textbook examples.
 - **Developer tooling and productivity** — What actually makes me faster versus what just feels productive.
 - **Debugging stories** — The messy, non-linear process of figuring out why something broke.
 
