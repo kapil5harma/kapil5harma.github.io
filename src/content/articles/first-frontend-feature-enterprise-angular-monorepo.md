@@ -8,7 +8,7 @@ draft: false
 
 A month into my new job, I had seven merged PRs. Not because I was fast — because enterprise features aren't built in one shot. They're shaped by code reviews, shifting requirements, and an understanding that deepens with every commit.
 
-This is the frontend side of the story. If you've read [my backend article](/articles/impacts-api-pagination-refactoring), you know I was simultaneously building my first API endpoint. This is what was happening on the other side of the stack.
+This is the frontend side of the story. If you've read [my backend article](/articles/first-backend-api-enterprise-monorepo), you know I was simultaneously building my first API endpoint. This is what was happening on the other side of the stack.
 
 ## The Setup
 
@@ -58,7 +58,7 @@ The seventh PR added filtering by status — only showing records that hadn't al
 
 ## What the Backend Article Didn't Tell You
 
-While I was building the frontend component, I was also working on [my first backend feature](/articles/impacts-api-pagination-refactoring) — a paginated API endpoint. That backend work took three days and was merged on February 11th, right in the middle of the frontend effort.
+While I was building the frontend component, I was also working on [my first backend feature](/articles/first-backend-api-enterprise-monorepo) — a paginated API endpoint. That backend work took three days and was merged on February 11th, right in the middle of the frontend effort.
 
 For those first two weeks, I was context-switching between two codebases I'd never seen — an Angular/Nx monorepo on the frontend and a Node.js/DDD monorepo on the backend. Different architectural patterns, different conventions. The frontend needed data that didn't have an endpoint yet; instead of waiting for someone else to build it, I created a story and built it myself.
 
