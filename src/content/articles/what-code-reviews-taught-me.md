@@ -3,7 +3,7 @@ title: 'What Code Reviews Taught Me That Documentation Couldn''t'
 description: 'How specific PR comments from teammates became my real onboarding — operator ordering, RxJS patterns, test structure, and the conventions no wiki captures.'
 pubDate: '2026-03-20'
 tags: ['code-review', 'learning', 'team']
-draft: true
+draft: false
 ---
 
 In my first month at a new company, I learned more from PR review comments than from any onboarding document. Not because the docs were bad — but because the things that actually trip you up in a new codebase aren't documented anywhere. They live in the collective habits of the team, and they surface when you ship code that doesn't match.
